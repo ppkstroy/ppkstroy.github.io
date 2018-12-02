@@ -199,6 +199,106 @@ video {
   transform: rotate(-90deg);
   transition: bottom 0.075s ease, transform 0.075s 0.12s cubic-bezier(0.215, 0.61, 0.355, 1);
 }
+.ico-brick {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 0%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-door {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 11.11111111111111%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-hummer {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 22.22222222222222%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-ladder {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 33.33333333333333%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-pile {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 44.44444444444444%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-roller {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 55.55555555555556%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-tile {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 66.66666666666666%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-wall {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 77.77777777777777%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-window {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 88.88888888888889%;
+  width: 100%;
+  padding-top: 100%;
+}
+.ico-wrench {
+  max-width: 96px;
+  max-height: 96px;
+  background-image: url("/images/services.png");
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
+  background-position: 50% 100%;
+  width: 100%;
+  padding-top: 100%;
+}
 .container-fluid {
   margin-left: auto;
   margin-right: auto;
